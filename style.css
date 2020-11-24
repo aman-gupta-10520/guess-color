@@ -1,0 +1,36 @@
+body{
+  background-color: cyan;
+}
+.top{
+  width:700px;
+  height:300px;
+  text-align: center;
+  background-color: white;
+  border-radius: 20px;
+  margin: auto;
+
+}
+
+.button-wrapper{
+  display:inline-block;
+
+}
+.button-wrapper button{
+  width:50px;
+  height:50px;
+  border-radius: 50%;
+  margin-left: 20px;
+  box-shadow: 2px 2px;
+
+}
+h1,h2{
+  color:#666;
+  font-style: oblique;
+}
+#reset{
+ width:100px;
+ height:20px;
+ background-color: #666;
+ color:white;
+ border-radius: 2px;
+}
